@@ -1,4 +1,3 @@
-```markdown
 # ⛽ Miles Per Gallon Calculator
 
 A Python console application that calculates a vehicle's fuel efficiency in miles per gallon (MPG) and displays a clean formatted report.
@@ -96,5 +95,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 *Written by Marlena Fabrick — Computer Programming, Fall 2020*
-```
+
 
